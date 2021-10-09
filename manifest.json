@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Pichrome-8",
+    "version": "0.1",
+    "description": "Pico-8 integrated into your browser.",
+    "icons": {
+        "128": "icon128.png",
+        "48": "icon48.png",
+        "16": "icon16.png"
+    },
+    "action": {
+        "default_icon": "icon16.png",
+        "default_popup": "pop.html",
+        "default_title": "Pichrome-8: randomized player for Pico-8 cartridge games, by Kir"
+    }
+}
