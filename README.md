@@ -1,5 +1,4 @@
 # Pichrome-8
-#### Video Demo:  https://youtu.be/CBAvP3gXNV4
 #### Description:
 
 Pichrome-8 is a Chrome Extension.
