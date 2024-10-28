@@ -47,6 +47,6 @@ The only thing I'm not really happy is that I had to hard encode my game cartrid
 The number of games is quite high, but I wanted to have an uptodate game list without the need to actually re-run the python scripts and update the extension every month or so.
 The problem is that I really could not manage to handle such a "complex" code using only javascript, and I could not be able even to store the csv file in a server and retrieve it dinamically upon the extension run becouse of CORS policy blockin request from other server domain.
 
-In future, I would like to build a smarter application (Maybe on Heroku?) that could actually automatically run the python scripts every week, update the csv, and set the chrome extension to dinamically build the cart id list from that hosted csv file.
+In future, I would like to build a smarter application that could actually automatically run the python scripts every week, update the csv, and set the chrome extension to dinamically build the cart id list from that hosted csv file.
 
 
